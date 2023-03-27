@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImgRandom</string>
+    <string name="go">GO</string>
+    <string name="input_a_url_of_image">input a url of image</string>
+    <string name="submit">SUBMIT</string>
+    <string name="random_image">RANDOM IMAGE</string>
+</resources>
